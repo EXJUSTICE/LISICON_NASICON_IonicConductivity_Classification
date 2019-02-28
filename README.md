@@ -1,7 +1,7 @@
 # MRSOpenDataChallenge2019
 Data and code (TBA) for the challenge.
 
-This is the dataset utilized to train the Logistic Regression, Random Forest, and 3-Layer Neural network models specified in the presentation.
+This is the dataset utilized to train the accuracies (%) of the Logistic Regression (84%), Random Forest (85%), and 3-Layer Neural network (88%) models specified in the presentation.
 
 The legend of the features is as follows:
 

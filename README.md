@@ -3,7 +3,7 @@ Data and code (TBA) for the challenge.
 
 This is the dataset utilized to train the Logistic Regression, Random Forest, and 3-Layer Neural network models specified in the presentation.
 
-The legend of the features is as follows
+The legend of the features is as follows:
 
 
 * d2occu - absolute occupancy of 2nd dopant position

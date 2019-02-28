@@ -6,12 +6,12 @@ This is the dataset utilized to train the Logistic Regression, Random Forest, an
 The legend of the features is as follows
 
 
-*d2occu - absolute occupancy of 2nd dopant position
-*S- ionic conductivity (S /cm2)
-*Slog - logarithmic value of ionic conductivity
-*S-class 
-*Ea- activation energy (eV)
-*a- lattice parameter (angstroms)
+* 2occu - absolute occupancy of 2nd dopant position
+* S- ionic conductivity (S /cm2)
+* Slog - logarithmic value of ionic conductivity
+* S-class 
+* Ea- activation energy (eV)
+* a- lattice parameter (angstroms)
 *c- lattice parameter (angstroms)
 *a/c - ratio of parameters
 *Vcalc - calculated volume

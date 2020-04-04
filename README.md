@@ -1,4 +1,4 @@
-# MRSOpenDataChallenge2019
+# Machine-learning assisted cross-domain prediction of ionic conductivity in sodium and lithium-based superionic conductors 
 Data and code (TBA post publication) for the challenge.
 
 This is the dataset utilized to train the accuracies (%) of the Logistic Regression (88%), Random Forest (85%), and 3-Layer Neural network (84%) models specified in the presentation.

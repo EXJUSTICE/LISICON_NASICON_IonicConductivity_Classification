@@ -1,11 +1,12 @@
 # Machine-learning assisted cross-domain prediction of ionic conductivity in sodium and lithium-based superionic conductors 
 Repository for the publication submitted to J Phys Commun by Xu et. al
 
-Abstract
+# Abstract
+
 In this work, we present a novel machine-learning based approach to predict the ionic conductivity of sodium and lithium-based SICON compounds. Using primarily theoretical elemental feature desciptors derivable from tabulated information on the unit cell and the atomic properties of the components of a target compound on a limited dataset of 70 NASICON-examples, we have designed a logistic regression-based model capable of distinguishing between poor and good superionic conductors with a cross-validation accuracy of over 82%. Moreover, we demonstrate how such a system is capable of cross-domain classification on lithium-based examples at the same accuracy, despite being introduced to zero lithium-based compounds during training. Through a systematic permutation-based evaluation process, we reduced the number of considered features from 47 to 7,  reduction of over 83%, while simultaneously improving model performance. The contributions of different electronic and structural features to overall ionic conductivity is also discussed, and contrasted with accepted theories in literature. Our results demonstrate the utility of such a facile tool in providing opportunities for initial screening of potential candidates as solid-state electrolytes through the use of existing data examples and simple tabulated or calculated features, reducing the time-to-market of such materials by helping to focus efforts on promising candidates. Given enough data utilizing suitable descriptors, high accurate cross-domain classifiers could be created for experimentalists, improving laboratory and computational efficiency.
 
-The legend of the features is as follows:
 
+# Feature Legend
 
 * d2occu - absolute occupancy of 2nd dopant position
 * S - ionic conductivity (S /cm2)
